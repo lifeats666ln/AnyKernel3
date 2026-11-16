@@ -1,0 +1,7 @@
+# Scripts run on Android: never check them out with CRLF
+* text=auto eol=lf
+tools/busybox binary
+tools/fec binary
+tools/*_static binary
+tools/magiskboot binary
+tools/magiskpolicy binary

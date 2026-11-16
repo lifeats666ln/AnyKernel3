@@ -1,0 +1,33 @@
+
+       *                          .
+     _____            __        .    +
+    / ___/_________ _/ /___ ______
+    \__ \/ ___/ __ `/ / __ `/ ___/  *
+   ___/ / /__/ /_/ / / /_/ / /
+  /____/\___/\__,_/_/\__,_/_/     .
+               /\
+  . . ____/\  /  \  ________________ . .
+            \/    \/  k  e  r  n  e  l
+
+   ~ # pacman -S scalar
+   resolving dependencies...
+    -> android12-5.10 lts
+    -> aosp clang+cfi
+    -> bore ? adios.
+    -> KernelSU-Next + SUSFS
+   :: no governor cosplay.
+   :: no borrowed glory.
+   :: kmi stable, abi untouched. vendor blobs none the wiser.
+   (1/1) scalar  [##########] 100%
+
+   :: post-install note
+    _________________________________________
+   |                                         |
+   | nobody feels ready. they start anyway   |
+   | and become ready along the way.         |
+   | waiting for certainty is also a choice, |
+   | and it quietly costs more years         |
+   | than being wrong ever will :)           |
+   |_________________________________________|
+                                --putraaxzy
+
